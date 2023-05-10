@@ -1,10 +1,11 @@
 # 💫 About Me:
-<br>- 🔭 Atualmente estou trabalhando em JB Software como desenvolvedor FullStack, faço Análise e Desenvolvimento de Sistemas na Anhanguera e estou no 3° periodo.<br>- 🌱 Atualmente estou aprendendo Node.js, React.js, Vue.js e SQL<br>- 📫 Como entrar em contato comigo: Minha redes sociais então logo abaixo.
+<br>- 🔭 Atualmente estou trabalhando em JB Software como desenvolvedor FullStack, faço Análise e Desenvolvimento de Sistemas na Anhanguera e estou no 3° periodo.<br>- 🌱 Atualmente trabalho com React, NodeJs e SQL,<br>- 📫 Como entrar em contato comigo: Minha redes sociais então logo abaixo.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dioneprey/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionatan-gon%C3%A7alves-0b1aba219/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5533999322516)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionatan-gon%C3%A7alves-0b1aba219/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?1=pt_BR&phone=5533999322516)
 
 # 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
